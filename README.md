@@ -41,4 +41,4 @@ ChatGPTを使って作った
 git clone https://github.com/aiappkobo/ai-file-organizer.git
 
 ## 🎥 解説動画
-https://www.youtube.com/@ai_app_kobo
+[https://www.youtube.com/@ai_app_kobo](https://www.youtube.com/watch?v=FDQG_kJNbSw)
