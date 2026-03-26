@@ -17,7 +17,8 @@ ChatGPTを使って作った
 
 ぐちゃぐちゃのフォルダが👇  
 → AIで一瞬整理されます  
-
+![before](https://github.com/aiappkobo/ai-file-organizer/blob/main/before.png)
+![after](https://github.com/aiappkobo/ai-file-organizer/blob/main/after.png)
 ---
 
 ## 🚀 使い方
